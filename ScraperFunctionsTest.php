@@ -49,7 +49,7 @@
                 $subObj0 = new SubscriptionObject("Option 300 Mins",
                     "300 minutes talk time per monthincluding 40 SMS(5p / minute and 4p / SMS thereafter)",
                         192,
-                      0);
+                      null);
 
                 return [[json_encode(json_decode($subscriptions[0])), json_encode($subObj0)]];
         }
