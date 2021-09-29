@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":202:{a:2:{s:7:"defects";a:1:{s:65:"ScraperFunctionsTest::testGetSubscriptionsAsJSON with data set #0";i:3;}s:5:"times";a:1:{s:65:"ScraperFunctionsTest::testGetSubscriptionsAsJSON with data set #0";d:0.013;}}}
